@@ -1,1 +1,3 @@
-# Sample-Windows-10-Window
+# Sample Windows 10 Window
+
+### Enjoy it :)
